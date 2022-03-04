@@ -1,0 +1,23 @@
+{
+  "name": "vue3-about",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev .",
+    "build": "vitepress build .",
+    "serve": "vitepress serve ."
+  },
+  "author": "qiuquanwu",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "license": "ISC",
+  "devDependencies": {
+    "naive-ui": "^2.26.0",
+    "vfonts": "^0.0.3",
+    "vitepress": "^0.22.3"
+  }
+}
