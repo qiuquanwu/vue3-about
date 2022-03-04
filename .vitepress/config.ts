@@ -15,14 +15,14 @@ const config: UserConfig = {
                 link: '/home/index',
                 activeMatch: '^/home/'
             },
+            // {
+            //     text: 'Other',
+            //     link: '/other/basics',
+            //     activeMatch: '^/other/'
+            // },
             {
-                text: 'Other',
-                link: '/other/basics',
-                activeMatch: '^/other/'
-            },
-            {
-                text: 'Release Notes',
-                link: 'https://github.com/vuejs/vitepress/releases'
+                text: 'Github',
+                link: 'https://github.com/qiuquanwu/vue3-about'
             }
         ],
         sidebar: {
@@ -53,6 +53,7 @@ function getSidebar() {
         text: 'Components',
         children: [
           { text: 'UI Components', link: '/home/ui-components' },
+          { text: 'Charts', link: '/home/charts' },
         ]
       }
     ]
