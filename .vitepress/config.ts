@@ -11,7 +11,7 @@ const config: UserConfig = {
     themeConfig: {
         nav: [
             {
-                text: 'Home',
+                text: 'Visit',
                 link: '/home/index',
                 activeMatch: '^/home/'
             },

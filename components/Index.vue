@@ -1,7 +1,7 @@
 <template>
   <div class="box">
-  A curated list of awesome things related to 
-    <NTag type="success"> vue3 </NTag>
+    A curated list of awesome things related to
+    <NTag type="warning"> vue3 </NTag>
   </div>
 </template>
 
@@ -10,7 +10,7 @@ import { NTag } from "naive-ui";
 </script>
 
 <style>
-.box{
-    margin-top: 1rem;
+.box {
+  margin-top: 1rem;
 }
 </style>

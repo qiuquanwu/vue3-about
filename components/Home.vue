@@ -2,7 +2,7 @@
   <div class="center">
     <img src="../imgs/logo.png" alt="" style="width: 300px; height: 300px" />
     <h1>Vue3-About</h1>
-    <h2 class="mt-10">Some awesome project for vue3</h2>
+    <IndexVue />
     <div class="mt-10">
       <NSpace justify="center">
         <NButton type="primary" tag="a" href="/home/index" size="large">
@@ -16,7 +16,7 @@
           quaternary
           size="large"
         >
-          Repository
+          Iusse or PR
         </NButton>
       </NSpace>
     </div>
@@ -31,6 +31,7 @@
 
 <script setup>
 import { NButton, NSpace } from "naive-ui";
+import IndexVue from "./Index.vue";
 </script>
 
 <style scoped>

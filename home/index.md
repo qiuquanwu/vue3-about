@@ -2,10 +2,7 @@
 title: some awesome project for vue3
 lang: en-US
 ---
-# Hello Vue3-About
-<Index />
+<Home />
 <script setup>
- import Index from "../components/Index.vue"
+ import Home from "../components/Home.vue"
 </script>
-- [Official](official-project)
-- [Components](ui-components)
