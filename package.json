@@ -19,5 +19,8 @@
     "naive-ui": "^2.26.0",
     "vfonts": "^0.0.3",
     "vitepress": "^0.22.3"
+  },
+  "dependencies": {
+    "@octokit/core": "^3.5.1"
   }
 }

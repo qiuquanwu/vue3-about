@@ -22,6 +22,10 @@
     </div>
   </div>
   <div class="mt-10">
+    <h3>Contributors:</h3>
+    <Contributors></Contributors>
+  </div>
+  <div class="mt-10">
     <NSpace justify="center">
       <span>copyright@qiuquanwu</span>
       <a href="https://github.com/qiuquanwu">About Author</a>
@@ -32,6 +36,7 @@
 <script setup>
 import { NButton, NSpace } from "naive-ui";
 import IndexVue from "./Index.vue";
+import Contributors from "./Contributors.vue";
 </script>
 
 <style scoped>
