@@ -54,7 +54,15 @@ function getSidebar() {
         children: [
           { text: 'UI Components', link: '/home/ui-components' },
           { text: 'Charts', link: '/home/charts' },
+          { text: 'Single Component', link: '/home/single-component' },
         ]
+      },
+      {
+        text: 'Utils',
+        link: '/home/hooks',
+        children: [
+            { text: 'Hooks', link: '/home/hooks' },
+          ]
       }
     ]
   }

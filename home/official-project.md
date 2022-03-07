@@ -40,3 +40,9 @@ Browser devtools extension for debugging Vue.js applications
 Next Generation Frontend Tooling
 - [Repository](https://github.com/vitejs/vite) 
 - [Home](https://vitejs.dev/)
+
+
+### Pinia
+The Vue Store that you will enjoy using
+- [Repository](https://github.com/vuejs/pinia) 
+- [Home](https://pinia.vuejs.org/)
