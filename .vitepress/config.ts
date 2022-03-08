@@ -11,7 +11,7 @@ const config: UserConfig = {
     themeConfig: {
         algolia: {
             appId:"SIZT7FHV5R",
-            apiKey: '0294b00c093eb82a4235f2838c2b62d6',
+            apiKey: '067689c78b64e47c2fe01b253612e710',
             indexName: 'vue3-about'
           },
         nav: [
