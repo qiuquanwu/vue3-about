@@ -6,9 +6,14 @@ const config: UserConfig = {
     description: 'some awesome project for vue3',
     lastUpdated: true,
     head: [
-        ["title", { "title": "some awesome project for vue3" }]
+        ["mata", { "title": "some awesome project for vue3" }]
     ],
     themeConfig: {
+        algolia: {
+            appId:"SIZT7FHV5R",
+            apiKey: '0294b00c093eb82a4235f2838c2b62d6',
+            indexName: 'vue3-about'
+          },
         nav: [
             {
                 text: 'Visit',

@@ -1,0 +1,19 @@
+{
+  "index_name": "vue3-about",
+  "start_urls": [
+    "https://vue3-about.vercel.app/home/official-project.html",
+    "https://vue3-about.vercel.app/home/ui-components.html",
+    "https://vue3-about.vercel.app/home/charts.html",
+    "https://vue3-about.vercel.app/home/single-component.html",
+    "https://vue3-about.vercel.app/home/hooks.html"
+  ],
+  "selectors": {
+    "lvl0": ".content h1",
+    "lvl1": ".content h1",
+    "lvl2": ".content h3",
+    "lvl3": ".content h4",
+    "lvl4": ".content h5",
+    "lvl5": ".content h6",
+    "text": ".content p,content p,content ol"
+  }
+}
