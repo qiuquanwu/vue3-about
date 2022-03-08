@@ -46,3 +46,8 @@ Next Generation Frontend Tooling
 The Vue Store that you will enjoy using
 - [Repository](https://github.com/vuejs/pinia) 
 - [Home](https://pinia.vuejs.org/)
+
+### VitePress
+VitePress is VuePress' little brother, built on top of Vite.
+- [Repository](https://github.com/vuejs/vitepress) 
+- [Home](https://vitepress.vuejs.org/)
