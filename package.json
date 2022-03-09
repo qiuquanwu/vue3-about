@@ -29,6 +29,7 @@
     "dynamics.js": "^1.1.5",
     "gsap": "^3.9.1",
     "markdown-it": "^12.3.2",
+    "vitepress-theme-vitenote": "^1.1.1",
     "vue": "^3.2.31"
   }
 }

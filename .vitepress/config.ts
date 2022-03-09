@@ -1,6 +1,10 @@
 import fs from "fs";
 import path from "path";
+import { defineConfigWithTheme } from "vitepress";
+import type { Config as ThemeConfig } from "@vue/theme";
+import baseConfig from "@vue/theme/config";
 import { headerPlugin } from "./headerMdPlugin";
+
 const nav = [
     {
         text: "Visit",
@@ -40,7 +44,6 @@ function getSidebar() {
         },
         {
             text: "Utils",
-            link: "/home/hooks",
             children: [{ text: "Hooks", link: "/home/hooks" }],
         },
     ];
