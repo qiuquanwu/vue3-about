@@ -22,7 +22,7 @@
     </div>
   </div>
   <div class="mt-10">
-    <h3>Contributors:</h3>
+    <n-divider>Contributors:</n-divider>
     <Contributors></Contributors>
   </div>
   <div class="mt-10">

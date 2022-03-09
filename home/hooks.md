@@ -1,4 +1,8 @@
+---
+footer: false
+---
 
+# Hooks
 ### ahooks-vue
 🖖 Most hooks implementation is original ported from ahooks.
 - [Repository](https://github.com/dewfall123/ahooks-vue) 
@@ -19,6 +23,6 @@
 - [Home](https://pikax.me/vue-composable/)
 
 ### vue-use-web
-🖖 Web APIs implemented as Vue.js composition functions.
+🖖 Web APIs implemented as Vue3-About composition functions.
 - [Repository](https://github.com/Tarektouati/vue-use-web) 
 - [Home](https://tarektouati.github.io/vue-use-web/)

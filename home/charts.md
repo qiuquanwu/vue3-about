@@ -1,15 +1,12 @@
 ---
-page: true
-title: Chart
-aside: true
 footer: false
-returnToTop: false
+aside: true
 ---
+# Chart & Map
 ## Chart
 
-
 ### vue-echarts
-🖖 Vue.js component for Apache ECharts.
+🖖 Vue3-About component for Apache ECharts.
 - [Repository](https://github.com/ecomfe/vue-echarts) 
 - [Demo](https://vue-echarts.dev/)
 

@@ -1,12 +1,10 @@
 ---
-page: true
-title: UI Components
-aside: true
 footer: false
-returnToTop: false
+aside: true
 ---
 # UI Components
 
+## PC
 
 ### Naive UI
 🖖 A Vue 3 Component Library,Fairly Complete, Customizable Themes, Uses TypeScript, Not Too Slow, Kinda Interesting.
@@ -29,6 +27,7 @@ returnToTop: false
 - [Repository](https://github.com/arco-design/arco-design-vue) 
 - [Home](https://arco.design/vue/en-US/docs/start)
 
+## Mobile terminal
 
 ###  Vant
 🖖 a Vue 3 based component library for designers and developers

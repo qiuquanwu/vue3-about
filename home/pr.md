@@ -1,9 +1,8 @@
 ---
-title: some awesome project for vue3
-lang: en-US
+footer: false
 ---
 # PR Requirements
-
+## PR
 :::tip Pull Requests
 
 -  [Fork](https://github.com/qiuquanwu/vue3-about/fork)
