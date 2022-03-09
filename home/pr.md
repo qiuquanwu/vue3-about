@@ -4,6 +4,13 @@ lang: en-US
 ---
 # PR Requirements
 
+:::tip Pull Requests
+
+-  [Fork](https://github.com/qiuquanwu/vue3-about/fork)
+-  [Pull Requests](https://github.com/qiuquanwu/vue3-about/pulls)
+:::
+
+## Writing format
 ```md
 ### xxx
 Project description

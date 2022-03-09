@@ -16,11 +16,17 @@
   "homepage": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/markdown-it": "^12.2.3",
     "naive-ui": "^2.26.0",
     "vfonts": "^0.0.3",
     "vitepress": "^0.22.3"
   },
   "dependencies": {
-    "@octokit/core": "^3.5.1"
+    "@octokit/core": "^3.5.1",
+    "@vue/repl": "^1.0.0",
+    "@vue/theme": "^1.0.1",
+    "dynamics.js": "^1.1.5",
+    "gsap": "^3.9.1",
+    "markdown-it": "^12.3.2"
   }
 }
