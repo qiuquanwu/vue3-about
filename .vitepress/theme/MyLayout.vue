@@ -13,11 +13,15 @@ let list = computed(() => {
     return item.level == 2;
   });
 });
+
+let isShow = computed(() => {
+  return frontmatter.aside !== false && list.value.length > 0;
+});
 </script>
 
 <template>
   <Layout></Layout>
-  <div class="aside" v-if="frontmatter.aside !== false">
+  <div class="aside" v-if="isShow">
     <div>Menu:</div>
     <div class="aside-container">
       <ul>
