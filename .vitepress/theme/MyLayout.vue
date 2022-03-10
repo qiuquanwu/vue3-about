@@ -38,10 +38,12 @@ let isShow = computed(() => {
 .aside {
   position: fixed;
   width: 260px;
-  background: rgba(204, 204, 204, 0.4);
+  background: rgba(238, 238, 238, 0.3);
   top: 100px;
   right: 20px;
   padding: 1rem;
   border-radius: 1rem;
+  max-height: 800px;
+  overflow: auto;
 }
 </style>
