@@ -123,11 +123,11 @@ export default {
         },
     },
 
-    markdown: {
-        config(md) {
-            md.use(headerPlugin);
-        },
-    },
+    // markdown: {
+    //     config(md: any) {
+    //         md.use(headerPlugin);
+    //     },
+    // },
 
     vite: {
         define: {

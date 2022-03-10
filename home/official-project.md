@@ -12,7 +12,7 @@ footer: false
 
 ## Router
 
-### router
+### vue-router
 Vue Router is part of the Vue Ecosystem and is an MIT-licensed open source project with its ongoing development made possible entirely by the support of Sponsors. If you would like to become a sponsor, please consider:
 - [Repository](https://github.com/vuejs/router) 
 - [Home](https://router.vuejs.org/)
